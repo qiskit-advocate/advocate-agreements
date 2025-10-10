@@ -22,6 +22,12 @@ When you apply to the Qiskit advocate program or update your details as an exist
 
 When you submit a points claim by completing a points-eligible activity in the program, you will be asked for non-personal information about the activity you engaged in, which we collect. We will not collect activity data from you via any other method, e.g. the Qiskit advocate hub on Discord.
 
+When you qualify for Tier 1 of the Qiskit advocate program, we will additionally ask you for:
+- Preferred name to display on the IBM Quantum Website (optional)
+- City of residence (optional)
+- LinkedIn profile URL (optional)
+- Postal address (optional)
+
 **How We Use Your Data**
 
 Your data is used for the following purposes:
@@ -55,5 +61,5 @@ If you have any questions, concerns, or wish to exercise your rights regarding t
 We may update this transparency notice from time to time. When we do, we will revise the "last updated" date at the bottom of this page. Changes to this notice are effective when they are posted on this page. Existing Qiskit advocates will be asked to acknowledge and agree to any updated changes that impact the data we collect and/or how we use their data.
 
 **Last Updated**  
-25 Aug 2025
-- To add collection of Slack user ID for applying to the program and when asked if already admitted to the program.
+10 Oct 2025
+Added the information collected when levelling up from Tier 0 to Tier 1 in the program.
