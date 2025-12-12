@@ -24,12 +24,12 @@ When you submit a points claim by completing a points-eligible activity in the p
 
 When you qualify for Tier 1 of the Qiskit advocate program, we will additionally ask you for:
 - Preferred name to display on the IBM Quantum Website (optional)
-- City and state/province of residence (optional)
+- City of residence (optional)
 - LinkedIn profile URL (optional)
 - Postal address (optional)
 
 When you qualify for Tier 2 of the Qiskit advocate program, we will additionally ask you for:
-- City and state/province of residence (optional)
+- City of residence (optional)
 
 **How We Use Your Data**
 
