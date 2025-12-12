@@ -28,6 +28,9 @@ When you qualify for Tier 1 of the Qiskit advocate program, we will additionally
 - LinkedIn profile URL (optional)
 - Postal address (optional)
 
+When you qualify for Tier 2 of the Qiskit advocate program, we will additionally ask you for:
+- City of residence (optional)
+
 **How We Use Your Data**
 
 Your data is used for the following purposes:
@@ -61,5 +64,5 @@ If you have any questions, concerns, or wish to exercise your rights regarding t
 We may update this transparency notice from time to time. When we do, we will revise the "last updated" date at the bottom of this page. Changes to this notice are effective when they are posted on this page. Existing Qiskit advocates will be asked to acknowledge and agree to any updated changes that impact the data we collect and/or how we use their data.
 
 **Last Updated**  
-10 Oct 2025
-Added the information collected when levelling up from Tier 0 to Tier 1 in the program.
+12 Dec 2025
+Added the information collected when levelling up from Tier 1 to Tier 2 in the program.
